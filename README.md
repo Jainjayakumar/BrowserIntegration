@@ -1,2 +1,2 @@
 # BrowserIntegration
-Integration of a browser tab it an android app. 
+Integration of a browser tab in an android app. 
